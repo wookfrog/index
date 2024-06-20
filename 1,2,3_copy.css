@@ -1,0 +1,171 @@
+body {
+  background-image: url('C:/Users/ydudd/OneDrive/바탕 화면/네오짐/neogym-html/images/wk.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+  display: inline-flex;
+  flex-direction: column;
+}
+
+.us_section {
+  background-image: url(../images/us-bg.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  color: #ffffff;
+  margin-top: 0px;
+}
+
+.layout_padding {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+
+.header {
+  background-position: left;
+  color: lightblue;
+  font-size: xxx-large;
+  height: 60px;
+  font-weight: bolder;
+}
+
+
+
+h2,
+h3 {
+  text-decoration: none;
+  
+}
+
+h2 {
+  color: white;
+  font-size: xx-large;
+  margin-top: 10px;
+}
+
+h3 {
+  color: white;
+  font-size: x-large;
+}
+
+
+h4 {
+  color: white;
+  font-size: x-large;
+  font-style: oblique;
+}
+
+h5 {
+  color: white;
+  font-size: large;
+}
+
+
+
+start {
+  font-size: large;
+  color: white;
+  float: inline-end;
+  float: left;
+}
+
+
+
+#selected {
+  height: 80px;
+  
+}
+
+.nav {
+  width: 500px;
+  height: 800px;
+  padding: 0px;
+  padding-left: 10px;
+  color: white;
+}
+
+.nav h3 {
+  border: black 1px;
+  float: left;
+  height: 150px;
+  width: 650px;
+  padding-left: 5px;
+  text-decoration: none;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.nav .hi {
+  border: black 1px;
+  float: left;
+  height: 150px;
+  width: 650px;
+  padding-left: 40px;
+  
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
+  font-size: x-large;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+
+.nav h4 {
+  border: black 1px;
+  float: left;
+  padding-top: 30px;
+  height: 400px;
+  width: 600px;
+  padding-left: 40px;
+  font-size:medium;
+  font-style:initial;
+  font-weight: bold;
+}
+
+.nav h5 {
+  border: black 1px;
+  padding-top: 10px;
+  height: 400px;
+  width: 600px;
+  padding-left: 30px;
+  font-size: 13px;
+  font-style: oblique;
+}
+
+.body .next {
+  border: 1px black;
+  float: right;
+  padding-left: 350px;
+  margin-inline-start: 900px;
+  font-size: xxx-large;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+#hd {
+  height: 70px;
+  padding-left: 40px;
+  padding-bottom: 0px;
+}
+
+#border {
+  font-size: xx-large;
+  padding: 20px;
+  padding-left: 30px;
+  padding-top: 40px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.next:hover{
+  transition: .6s ease-in; 
+  color: red;
+  cursor: pointer;
+}
+
+a{
+  text-decoration: none;
+}
+
+.nav a:hover{
+  text-decoration: none;
+}
